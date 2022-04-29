@@ -1,0 +1,180 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+body{
+    background-color: #fafafa;
+}
+
+.container{
+    background-color: gray;
+    height: 45vh;
+    width: 50vh;
+    position: absolute;
+    top : calc(50% - 20vh);
+    left:  calc(50% - 25vh);
+    box-shadow: 5px 5px 10px black;
+        
+}
+
+.topo{
+    background-color: #A9A9A9;
+   
+    display: flex;
+    height: 40px;
+  
+    align-items: center;
+    justify-content: space-between;
+    padding: 20px;
+    
+}
+
+.botao-topo1 {
+    height: 20px ;
+    border-radius: 15px;
+}
+
+.cad{
+    position: absolute;
+    right: 20px;
+}
+
+.fighters1 {
+    margin-top: 10px;
+    width: 100%;
+}
+
+.centro{
+    background-color: #D3D3D3;
+    /* height: 100%; */
+    width: 80%;
+    margin: 0 auto;
+}
+
+
+.p1 {
+    margin-top: 20px;
+    text-align: center;
+    
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

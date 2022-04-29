@@ -1,0 +1,72 @@
+label{
+    font-family:cursive ;
+    font-weight: bold;
+    margin-bottom: 10px;
+}
+
+.canto{
+	height: 300px;
+	background: red;
+	width: 200px ;
+}
+
+.maior{
+    font-size: 302px;
+}
+
+input{
+    margin-bottom:10px;  
+}
+
+.embaixo{
+    background-color: #778899;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    flex-direction:column ;
+}
+
+.botao-centro{
+   display: flex;
+   /* background-color: #5F9EA0; */
+   justify-content: center;
+
+   background-color: #fafafa;
+   height: 30px;
+   align-items: center;
+   width: 80%;
+   margin: 10px auto;
+}
+
+.botao{
+    height: 30px;
+    width: 100px;
+    background-color: red;
+}
+
+li {
+
+    list-style:none;
+}
+
+.containere{
+   
+    background-color: red;
+    overflow-y: scroll;
+    height: 3000px;
+    padding-left: 20px;
+    padding-right: 20px;
+    
+}
+
+.block{
+    display: none;
+    /* margin-top : 433px; */
+}
+
+.quadrado{
+    background-color: #fafafa;
+    margin-bottom: 20px;
+    margin-top: 5px;
+}
+
